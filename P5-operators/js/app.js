@@ -4,18 +4,21 @@ let z = y + y;
 console.log(z + z);
 
 let firstnumber = 1;
-let secondanswer = 2;
+let secondnumber = 2;
 let answer = 0;
 
-answer = firstnumber + secondanswer
-console.log(firstnumber + secondanswer);
+answer = firstnumber + secondnumber;
+console.log(firstnumber + secondnumber);
 
-answer = firstnumber - secondanswer;
+answer = firstnumber - secondnumber;
 console.log(answer);
 
-answer = firstnumber * secondanswer;
+answer = firstnumber * secondnumber;
 console.log(answer);
 
-answer = firstnumber / secondanswer;
+answer = firstnumber / secondnumber;
+console.log(answer);
+
+answer = firstnumber % secondnumber;
 console.log(answer);
 
