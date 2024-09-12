@@ -4,5 +4,15 @@
 console.log("Hello World!");
 console.log("My name is August");
 
+const hoursinclass = 5;
+const hoursofsleep = 8;
+let total = 0;
+
+console.log(hoursinclass);
+console.log(hoursofsleep);
+console.log(hoursinclass + hoursofsleep);
+total = hoursinclass + hoursofsleep;
+console.log(total);
+
 
 
