@@ -7,7 +7,7 @@ console.log(line1);
 console.log(numberofbottles);
 console.log(line1);
 console.log(line2);
-console.log(numberofbottles - 1);
-// --numberofbottles = 9
+console.log(--numberofbottles);
 console.log(line1);
+
 
