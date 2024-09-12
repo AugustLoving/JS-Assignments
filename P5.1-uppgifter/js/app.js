@@ -27,10 +27,6 @@ let output = 0;
 output = input % 4;
 console.log(output);
 
-let moduloinput = 4
-let modulooutput = 0;
-modulooutput = moduloinput % 7;
 
-console.log(modulooutput);
 
 
