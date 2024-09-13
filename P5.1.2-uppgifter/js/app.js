@@ -52,10 +52,16 @@ const hypothenus = Math.sqrt(sida1 * sida1 + sida2 * sida2);
 console.log(hypothenus);
 
 
-const sekunder = 111;
+const sekunderinput = 111;
 
-const minuter = Math.floor(sekunder / 60);
-const sekunderkvar = sekunder % 60;
+const minuter = Math.floor(sekunderinput / 60);
+const sekunderkvar = sekunderinput % 60;
 
-console.log(minuter);
+console.log(minuter + " minut(er) och " + sekunderkvar + " sekund(er)");
+
+
+// `${minuter} minut(er) och ${sekunderkvar} sekund(er).`
+
+
+
 
