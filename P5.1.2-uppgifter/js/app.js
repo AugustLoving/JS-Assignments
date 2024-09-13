@@ -47,7 +47,7 @@ console.log(hypotenusan);
 const side1 = 3;
 const side2 = 4;
 
-const hypothenus = Math.sqrt(sida1 * sida1 + sida2 * sida2);
+const hypothenus = Math.sqrt(side1 * side1 + side2 * side2);
 
 console.log(hypothenus);
 
@@ -63,5 +63,25 @@ console.log(minuter + " minut(er) och " + sekunderkvar + " sekund(er)");
 // `${minuter} minut(er) och ${sekunderkvar} sekund(er).`
 
 
+// upg. från GPT
+const celsius = 25;
+const fahrenheit = (celsius * 1.8) + 32;
+
+console.log(fahrenheit);
+
+
+let enaSidan = 5;
+let andraSidan = 6;
+let tredjeSidan = 7;
+
+const omkretsen = enaSidan + andraSidan + tredjeSidan;
+
+console.log(omkretsen);
+
+
+const radie = 4;
+const cirkelOmkrets = 2 * Math.PI * radie;
+
+console.log("omkretsen av cirkeln är " + cirkelOmkrets);
 
 
