@@ -70,8 +70,8 @@ const fahrenheit = (celsius * 1.8) + 32;
 console.log(fahrenheit);
 
 
-let enaSidan = 5;
-let andraSidan = 6;
+let enaSidan = 3;
+let andraSidan = 5;
 let tredjeSidan = 7;
 
 const omkretsen = enaSidan + andraSidan + tredjeSidan;
@@ -83,5 +83,6 @@ const radie = 4;
 const cirkelOmkrets = 2 * Math.PI * radie;
 
 console.log("omkretsen av cirkeln är " + cirkelOmkrets);
+
 
 
