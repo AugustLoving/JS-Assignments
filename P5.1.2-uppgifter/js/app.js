@@ -7,8 +7,8 @@ console.log(areaoutpout);
 
 
 let posinput = 11
-let negoutput = -posinput;
-
+let negoutput;
+negoutput = posinput * -1;
 console.log(negoutput);
 
 //med function
