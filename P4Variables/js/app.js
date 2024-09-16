@@ -5,3 +5,4 @@ const line2 = "And if one bottle, should accidentally fall, there will be ";
 
 console.log(numberOfBottles + line1 + numberOfBottles + line1);
 console.log(line2 + --numberOfBottles + line1);
+
