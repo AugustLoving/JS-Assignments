@@ -40,7 +40,6 @@ else {
   console.log("Age is greater.");
 }
 
-
 if (favoriteNumber % 2 === 0) {
   console.log("your favorite number is even.");
 }
@@ -48,4 +47,5 @@ if (favoriteNumber % 2 === 0) {
 else {
   console.log("Your favorite number is odd.");
 }
+
 
