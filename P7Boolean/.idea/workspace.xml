@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cb9fdb1-1a2a-4e02-aea6-0a1980a10eae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P8conditionalBranching/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../P8conditionalBranching/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726475960076</updated>
       <workItem from="1726475961911" duration="4554000" />
-      <workItem from="1726483938224" duration="888000" />
+      <workItem from="1726483938224" duration="1548000" />
     </task>
     <servers />
   </component>
