@@ -24,8 +24,8 @@ const bmi = calculateBMI(weight, height);
 console.log(bmi);
 
 //utan function
-const vikt = 70;
-const langd = 1.82;
+let vikt = 70;
+let langd = 1.82;
 
 const bmiet = vikt / (langd * langd);
 
