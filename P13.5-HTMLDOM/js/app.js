@@ -11,8 +11,6 @@ decreaseScoreButton.style.color = "red";
 increaseScoreButton.style.color = "green";
 
 
-
-
 // internal Variables
 let score = 0;
 
