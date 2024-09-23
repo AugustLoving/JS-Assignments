@@ -7,6 +7,7 @@ for (let i = 0; i < numberOfPeople; i++) {
 }
 
 // om j är mindre än fem j++. j+1.
+// staringIndex = 0. stoppingIndex = 5.
 for (let j = 0; j < 5 ; j++) {
   console.log(j); // 0 1 2 3 4
 }
@@ -31,3 +32,5 @@ for (let i = 5; i >= 0 ; i--){
 for (let i = 5; i >= 0; i-=2){
 console.log(i);
 }
+
+
