@@ -33,4 +33,32 @@ for (let i = 5; i >= 0; i-=2){
 console.log(i);
 }
 
+console.log("EXERCISE");
+// exercise
+
+for (let n = 0; n < 13; n++) {
+  let randomNumber = Math.floor(Math.random() * 6 + 1);
+  console.log(randomNumber);
+}
+
+for (let n = 1; n <= 1024; n*=2) {
+  console.log(n);
+}
+
+for (let n = 10; n>=0; n--){
+  console.log(n);
+}
+
+function power(firstNumber, exponent){
+  // here we cache the result
+  let result = firstNumber;
+  for (let i = 1; i < exponent; i++){
+    // here we multiply the result by the firstNumber
+    result *= firstNumber;
+  }
+  // once the loop is over, we return the result.
+  return result;
+}
+console.log(power(4, 24))
+
 
