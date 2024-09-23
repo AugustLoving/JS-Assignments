@@ -61,16 +61,6 @@ function power(firstNumber, exponent){
 }
 console.log(power(4, 24))
 
-// arrays
-let studentNames = ["Alice", "Benjamin", "Clara", "David", "Elena", "Felix", "Greta", "Hugo", "Isabella", "Jasper"];
 
-studentNames[3] = "August";
-studentNames.push("Nils");
 
-console.log( "We have: " + studentNames.length + " students");
-
-for (let i = 0; i < studentNames.length; i++) {
-  console.log("Good morning " + studentNames[i] + "!");
-
-}
 
