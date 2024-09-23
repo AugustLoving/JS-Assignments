@@ -8,15 +8,15 @@ for (let i = 0; i < numberOfPeople; i++) {
 
 // om j är mindre än fem j++. j+1.
 for (let j = 0; j < 5 ; j++) {
-  console.log(j) // 0 1 2 3 4
+  console.log(j); // 0 1 2 3 4
 }
 // om j är mindre eller lika med 5.
 for (let j = 0; j <= 5 ; j++) {
-  console.log(j) // 0 1 2 3 4 5
+  console.log(j); // 0 1 2 3 4 5
 }
 // plus 2
 for (let i = 0; i <= 5 ; i+=2){
-  console.log(i)
+  console.log(i);
 }
 
 // negative for loops
@@ -25,9 +25,9 @@ for (let i = 5; i > 0 ; i--){
 }
 
 for (let i = 5; i >= 0 ; i--){
-  console.log(i)
+  console.log(i);
 }
 
 for (let i = 5; i >= 0; i-=2){
-console.log(i)
+console.log(i);
 }
